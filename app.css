@@ -1,0 +1,53 @@
+body{
+	background-color: black;
+	color: whitesmoke;
+	margin: 5;
+	padding-top: 0;
+	
+}
+
+html, body{
+	height: 100%;
+}
+
+#content{
+	padding-top: 1%;
+	text-align: center;
+
+
+}
+
+h2{
+	font-family: playfair;
+	font-size: 30px;
+
+	
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+	 margin: auto;
+
+}
+p{
+	font-size: 15px;
+}
+
+#container{
+	margin: 20px auto;
+	max-width: 1000px;
+}
+
+.square{
+	
+	background-size: 150px 200px;
+	background-repeat: no-repeat;
+	width: 20%;
+	height: 150px;
+	float: left;
+	margin: 2%;
+	border-radius: 20%;	
+
+}
+
